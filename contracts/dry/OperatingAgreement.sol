@@ -1,7 +1,6 @@
 /**
- *Submitted for verification at Etherscan.io on 2020-04-01
+ *Submitted for verification at Etherscan.io on 2020-04-01: 0xd94e2dde18db7844242e5fbc6cafe116e2a5965f
 */
-
 /*
 || <🏛️> Smart Co. Operating Agreement (SCOA) <🏛️> ||
 
